@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.css
+*.map
+*.ttf
+*.eot
+*.js
+*.woff
+*.woff2
+*.svg
