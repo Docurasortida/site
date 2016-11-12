@@ -1,5 +1,5 @@
 ---
-title: "About us"
+title: "Quem somos"
 ---
 
 Somos uma empresa que leva doçura para sua vida :)

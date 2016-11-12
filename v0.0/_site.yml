@@ -1,15 +1,13 @@
-name: "my-website"
+name: "Meu Site"
 navbar:
-  title: "My Website"
+  title: "Site de Doçuras Sortidas"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About us"
+    - text: "Início"
+      href: page1.html
+    - text: "Quem somos"
       href: about.html
-  output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
-    include:
-      after_body: footer.html
-    css: styles.css
+    - text: "Mais"
+      icon: fa-gear
+      menu:
+        - text: "Encomendas"
+          href: index.html
